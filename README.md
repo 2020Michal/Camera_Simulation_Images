@@ -7,7 +7,7 @@ The “ImageWrite” class actually produces the image
 The “Render” class produces the image according to the data in the scene
 A test file must be created for running.
 
-Images in this project:
+Images were created in this project:
 
 ![Emmition test big](https://user-images.githubusercontent.com/72125926/125192825-5e2af000-e252-11eb-94fc-7eea429a562a.jpg)
 
