@@ -3,8 +3,11 @@ Design and modeling of a virtual 3D graphic scene with all lighting effects: lig
 Principles of object-oriented model development and abstraction.
 
 The "scene" class contains all the scene information such as: the camera location, lightings and shapes in space.
-The “ImageWrite” class actually produces the image
-The “Render” class produces the image according to the data in the scene
+
+The “ImageWrite” class actually produces the image.
+
+The “Render” class produces the image according to the data in the scene.
+
 A test file must be created for running.
 
 Images were created in this project:
